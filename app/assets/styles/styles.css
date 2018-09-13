@@ -2,26 +2,12 @@
 @import "base/_variables";
 @import "base/_mixins";
 @import "base/_global";
-<<<<<<< HEAD
-=======
-
-@import "modules/_btn";
-@import "modules/_feature-item";
-@import "modules/_generic-content-container";
-@import "modules/_headline";
->>>>>>> our-features
 @import "modules/_large-hero";
 @import "modules/_btn";
 @import "modules/_wrapper";
 @import "modules/_page-section";
 @import "modules/_headline";
 @import "modules/_row";
-<<<<<<< HEAD
 @import "modules/_generic-content-container";
 @import "modules/_section-title";
 @import "modules/_feature-item";
-=======
-@import "modules/_section-title";
-@import "modules/_wrapper";
-
->>>>>>> our-features
