@@ -1,29 +1,44 @@
 {
-  "name": "travel-site",
+  "name": "clearviewescapes",
   "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riadheh/clearViewEscapes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riadheh/clearViewEscapes/issues"
+  },
+  "homepage": "https://github.com/riadheh/clearViewEscapes#readme",
   "dependencies": {
     "jquery": "^3.3.1",
     "normalize.css": "^8.0.0"
   },
   "devDependencies": {
-    "autoprefixer": "^9.1.5",
-    "browser-sync": "^2.12.8",
-    "del": "^3.0.0",
-    "gulp": "^3.9.1",
-    "gulp-postcss": "^8.0.0",
-    "gulp-rename": "^1.4.0",
-    "gulp-svg-sprite": "^1.4.0",
-    "gulp-watch": "^5.0.1",
-    "postcss-import": "^12.0.0",
-    "postcss-mixins": "^6.2.0",
-    "postcss-nested": "^4.1.0",
-    "postcss-simple-vars": "^5.0.1"
-  },
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "description": ""
+    "@babel/core": "",
+    "@babel/preset-env": "",
+    "autoprefixer": "",
+    "babel-loader": "",
+    "browser-sync": "",
+    "del": "",
+    "gulp": "",
+    "gulp-babel": "",
+    "gulp-postcss": "",
+    "gulp-rename": "",
+    "gulp-svg-sprite": "",
+    "gulp-watch": "",
+    "postcss-hexrgba": "",
+    "postcss-import": "",
+    "postcss-mixins": "",
+    "postcss-nested": "",
+    "postcss-simple-vars": "",
+    "webpack": "",
+    "webpack-cli": "^3.1.0"
+  }
 }
